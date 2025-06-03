@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396443077945",
+    "project_id": "mandeep-driver",
+    "storage_bucket": "mandeep-driver.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396443077945:android:efe0166f5bdff330eaace8",
+        "android_client_info": {
+          "package_name": "com.elate.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3qSjA4Z6bhS-VMsHQsleHP72-PetcgTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
