@@ -4,7 +4,7 @@
     <!-- For Android 13 and above -->
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
     <application
-        android:label="myapp"
+        android:label="Elate Driver Portal"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

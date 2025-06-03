@@ -38,7 +38,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       appBar: AppBar(
         title: const Text(
-          'Mandeep Elate App',
+          'Elate Driver Portal',
           style: TextStyle(color: Colors.black),
         ),
       ),
